@@ -1,1 +1,1 @@
-# Jogo-do-n-mero-secreto-Javascript
+# Jogo-do-numero-secreto-Javascript
